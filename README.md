@@ -6,6 +6,13 @@
 
 This fork brings node v6 experimental support via a set of babel plugins. [An official solution](https://github.com/GoogleChrome/puppeteer/issues/316) is under way and will superseed this once ready. 
 
+```
+yarn add @mgcrea/puppeteer
+# or "npm i @mgcrea/puppeteer"
+```
+
+---
+
 ###### [API](docs/api.md) | [FAQ](#faq) | [Contributing](https://github.com/GoogleChrome/puppeteer/blob/master/CONTRIBUTING.md)
 
 > Puppeteer is a Node library which provides a high-level API to control [headless](https://developers.google.com/web/updates/2017/04/headless-chrome) Chrome over the [DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/). It can also be configured to use full (non-headless) Chrome.
